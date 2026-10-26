@@ -1,0 +1,6 @@
+{
+  "threshold": 20,
+  "poll_seconds": 30,
+  "notify_enabled": true,
+  "autostart": true
+}
